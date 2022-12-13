@@ -3,7 +3,7 @@
     "identifier":   "Kaboom",
     "$kref":        "#/ckan/spacedock/833",
     "$vref":        "#/ckan/ksp-avc",
-    "license":      "unrestricted",
+    "license":      "GPL-2.0",
     "tags": [
         "plugin"
     ],
